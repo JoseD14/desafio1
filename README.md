@@ -14,6 +14,7 @@ Video Demostrativo:
 (https://youtu.be/PD4ago_NAUI)
 
 ### El archivo pdf está disponible en el repositorio
+https://github.com/JoseD14/desafio1/blob/main/DESAFIO1_DH211056.pdf
 
 ### Para poder tener el programa en su máquina debe escribir en git bash: 
 
