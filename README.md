@@ -1,4 +1,4 @@
-# desafio1
+# Desafio1
 ### Integrantes del equipo:
 -José Roberto Doradea Herrera DH211056
 
@@ -18,7 +18,8 @@ https://github.com/JoseD14/desafio1/blob/main/DESAFIO1_DH211056.pdf
 
 ### Para poder tener el programa en su máquina debe escribir en git bash: 
 
-git clone 
+git clone https://github.com/JoseD14/desafio1.git
+npm run dev
 
 
  
